@@ -15,6 +15,7 @@
 
     <ItemGroup>
       <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+      <PackageReference Include="Tomlyn" Version="0.16.1" />
     </ItemGroup>
 
 </Project>
