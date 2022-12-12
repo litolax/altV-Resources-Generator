@@ -13,7 +13,7 @@
 <!-- About the project -->
 ## About the project
 
-This tool for filling resources in server.cfg from resources folder.
+This tool for filling resources in server.toml from resources folder.
 
 
 ### Built With
